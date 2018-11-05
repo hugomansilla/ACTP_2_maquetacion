@@ -1,0 +1,50 @@
+
+
+/*Global styles*/
+
+h1, h2, h3{
+
+}
+
+p, a, li, small{
+
+}
+
+/*Font Hierarchy*/
+
+
+/* Personal styles*/
+
+.navbar{
+	margin-bottom: 0px;
+}
+.navbar_tiatomate{
+	background-color: #121619;
+	height: 60px;
+}
+.navbar-brand img {
+	max-width: 80px;
+	margin-left: 150px;
+}
+
+.navbar-nav >li > a {
+	color: white;
+	text-shadow: none;
+	text-transform: uppercase;
+}
+.navbar-nav >li > a:hover {
+	background-color: initial; 
+	color: hsla(0,0%,100%,.5);
+}
+.navbar-right{
+	margin-right: 150px;
+}
+.icon-bar{
+	background-color: white; 
+}
+
+.header_barbershop{
+	background-image: url(post-image.jpg);
+	background-position: center; 
+	background-repeat: none;
+}
